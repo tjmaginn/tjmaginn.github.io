@@ -10,21 +10,24 @@
 ############################
 
 # Name of website
-title: My website
+title: Teddy Maginn
 
 # Your name to show in the footer
-author: Some Person
+author: Teddy Maginn
+
+# Optional short description (used in metadata / SEO)
+description: "Urban policy, housing, and data-driven research."
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "aboutme"        # Default homepage
+  Blog: "https://substack.com/@teddymaginn?utm_source=user-menu\"
+  CV: "resume.pdf"       # Make sure you upload your PDF to the repo or host it in assets
+  Projects: "projects"
+
 
 ################
 # --- Logo --- #
