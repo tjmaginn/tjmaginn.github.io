@@ -1,0 +1,24 @@
+/* Global typography */
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px; /* default is ~18px, this slightly downsizes */
+  line-height: 1.6;
+}
+
+/* Headings: keep them clean and professional */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600;
+}
+
+/* Navbar text */
+.navbar {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+}
+
+/* Footer text */
+footer {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+}
