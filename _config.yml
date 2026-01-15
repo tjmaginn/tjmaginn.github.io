@@ -31,7 +31,7 @@ navbar-links:
 social-network-links:
   email: "tjmaginn6@gmail.com"
   linkedin: teddy-maginn
-  github: tjmaginn
+  # github: tjmaginn
 
 ################################
 # --- General behavior --- #
