@@ -3,7 +3,6 @@ layout: page
 title: Academic & Policy Research
 ---
 
-## Selected publications and policy work
 
 ### Generating Affordable and Abundant Transit-Oriented Development in Washington State  
 *Urban Institute, 2025*  
