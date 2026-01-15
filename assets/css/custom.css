@@ -11,13 +11,14 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
-/* Page titles (override theme) */
+/* Page titles (e.g. "About me") */
 .page-title,
 .intro-header h1 {
-  font-size: 2rem !important;
-  line-height: 1.25;
-  margin-bottom: 1rem;
+  font-size: 2rem;   /* adjust: try 1.5–1.7 */
+  font-weight: 600;
+  margin-bottom: 1.2rem;
 }
+
 
 /* Navbar text */
 .navbar {
