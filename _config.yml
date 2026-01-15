@@ -38,7 +38,7 @@ social-network-links:
 ################################
 
 title-on-all-pages: true
-post_search: true
+post_search: false
 edit_page_button: false
 
 ################################
