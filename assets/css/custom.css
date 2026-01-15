@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Page titles (e.g. "About me") */
 h1 {
-  font-size: 1.75rem;
+  font-size: 1.45rem;   /* noticeably smaller, still readable */
   line-height: 1.25;
 }
 
