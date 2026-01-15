@@ -11,7 +11,7 @@ description: Urban policy & analytics
 ################################
 
 navbar-links:
-  About: "aboutme"
+  About: "/"
   Projects: "projects"
   Blog: "https://substack.com/@teddymaginn"
   Academic and policy research: "publications"
