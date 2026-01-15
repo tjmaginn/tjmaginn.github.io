@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Page titles (e.g. "About me") */
 .page-title,
 .intro-header h1 {
-  font-size: 2rem;   /* adjust: try 1.5–1.7 */
+  font-size: 1.7rem;   /* adjust: try 1.5–1.7 */
   font-weight: 600;
   margin-bottom: 1.2rem;
 }
