@@ -39,7 +39,7 @@ social-network-links:
 
 title-on-all-pages: true
 post_search: true
-edit_page_button: true
+edit_page_button: false
 
 ################################
 # --- Appearance --- #
