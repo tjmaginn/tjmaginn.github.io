@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, I’m Teddy.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I’m interested in using data and quantitative analysis to better understand urban policy issues and help inform policy decisions that strengthen communities.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I currently work as a researcher at UC Berkeley’s Fisher Center for Real Estate and Urban Economics. Before that, I worked on housing, land use, and transportation policy at the Urban Institute. I studied economics and applied mathematics at the University of Notre Dame, where I also researched anti-poverty interventions at the Wilson Sheehan Lab for Economic Opportunities.
