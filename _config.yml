@@ -21,8 +21,8 @@ navbar-links:
 # --- Branding --- #
 ################################
 
-avatar: "assets/img/southbend1920.png"
-round-avatar: false
+# avatar: "assets/img/southbend1920.png"
+# round-avatar: false
 
 ################################
 # --- Social links (footer) --- #
