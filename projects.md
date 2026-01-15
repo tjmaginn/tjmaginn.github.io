@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Below are some data projects I've worked on.
+Below are some personal projects I've worked on.
 
 
 ### Airbnb concentration in major U.S. cities
