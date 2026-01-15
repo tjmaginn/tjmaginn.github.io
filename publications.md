@@ -35,5 +35,5 @@ An analysis of how federal investments in housing, transportation, climate resil
 *In Progress*  
 *Laura Weiwu and Vincent Rollet*
   
-Role: Research assistant. Supported data construction and quantitative analysis for the project.
+Role: Research assistant. Supported data construction and quantitative estimation for the project.
 
