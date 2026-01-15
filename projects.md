@@ -6,7 +6,7 @@ title: Projects
 Below are some data projects I've worked on.
 
 
-### Airbnb concentration in major U.S. cities\
+### Airbnb concentration in major U.S. cities
 
 <a href="https://tjmaginn.github.io/airbnb-maps/" target="_blank" rel="noopener">
   <img src="/assets/img/bnb_preview.png" alt="Preview of Airbnb interactive map" style="max-width:100%; border:1px solid #ddd; border-radius:6px;">
