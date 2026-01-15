@@ -33,7 +33,8 @@ An analysis of how federal investments in housing, transportation, climate resil
 ---
 
 ### Measuring Winners and Losers from Increasing Housing Supply 
-*In Progress*
-* Laura Weiwu and Vincent Rollet*
+*In Progress*  
+*Laura Weiwu and Vincent Rollet*
+  
 Role: Research assistant. Supported data construction and quantitative analysis for the project.
 
