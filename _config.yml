@@ -14,7 +14,7 @@ navbar-links:
   About: "/"
   Projects: "projects"
   Blog: "https://substack.com/@teddymaginn"
-  "Academic and policy research": "publications"
+  Research: "publications"
   CV: "assets/CV.pdf"
 
 ################################
