@@ -54,6 +54,10 @@ navbar-text-col: "#404040"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 
+
+site-css:
+  - "/assets/css/custom.css"
+
 ################################
 # --- Jekyll core settings --- #
 ################################
