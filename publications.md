@@ -12,7 +12,7 @@ title: Academic & Policy Research
 A review of current transit-oriented development practices in Washington State and policy recommendations to support more affordable and abundant housing near transit.
 
 <a href="https://www.urban.org/research/publication/generating-affordable-and-abundant-transit-oriented-development-washington" target="_blank" rel="noopener">
-Read the paper →
+Read the report →
 </a>
 
 ---
@@ -23,7 +23,7 @@ Read the paper →
 
 An analysis of how federal investments in housing, transportation, climate resilience, energy, and broadband are distributed across communities and whether they align with measured need.
 
-**Related reports:**
+**Series of reports:**
 - <a href="https://www.urban.org/research/publication/are-federal-urban-development-and-housing-investments-meeting-need" target="_blank" rel="noopener">Housing & urban development</a>  
 - <a href="https://www.urban.org/research/publication/how-are-federal-transportation-investments-being-distributed" target="_blank" rel="noopener">Transportation</a>  
 - <a href="https://www.urban.org/research/publication/are-federal-climate-resilience-investments-meeting-need" target="_blank" rel="noopener">Climate resilience</a>  
@@ -33,7 +33,7 @@ An analysis of how federal investments in housing, transportation, climate resil
 ---
 
 ### Measuring Winners and Losers from Increasing Housing Supply 
-*Forthcoming*
+*In Progress*
 * Laura Weiwu and Vincent Rollet*
 Role: Research assistant. Supported data construction and quantitative analysis for the project.
 
