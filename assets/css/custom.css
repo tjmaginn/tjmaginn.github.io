@@ -5,28 +5,26 @@ body {
   line-height: 1.6;
 }
 
-/* Headings: clean, professional, readable */
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Georgia", "Times New Roman", serif;
   font-weight: 600;
 }
 
-/* Page titles (e.g. "About me") */
-.page-title,
-.intro-header h1,
+/* Page titles (About, home, posts) */
 header.intro-header h1 {
-  font-size: 1.8rem !important;
+  font-size: 20px;
   font-weight: 600;
   margin-bottom: 1.2rem;
 }
 
-/* Navbar text */
+/* Navbar */
 .navbar {
   font-family: "Georgia", "Times New Roman", serif;
   font-size: 14.5px;
 }
 
-/* Footer text */
+/* Footer */
 footer {
   font-family: "Georgia", "Times New Roman", serif;
   font-size: 14px;
