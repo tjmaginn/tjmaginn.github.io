@@ -1,78 +1,32 @@
-/* =====================================================
-   Global typography
-   ===================================================== */
-
+/* Global typography */
 body {
   font-family: "Georgia", "Times New Roman", serif;
   font-size: 15.5px;
   line-height: 1.6;
 }
 
-/* =====================================================
-   Headings – clean, professional, readable
-   ===================================================== */
-
+/* Headings: clean, professional, readable */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Georgia", "Times New Roman", serif;
   font-weight: 600;
 }
 
-/* =====================================================
-   Page titles (homepage + pages like About, Blog, etc.)
-   Beautiful Jekyll override
-   ===================================================== */
-
-header.intro-header h1,
+/* Page titles (e.g. "About me") */
+.page-title,
 .intro-header h1,
-.page-title {
-  font-size: 1.45rem;
-  line-height: 1.25;
+header.intro-header h1 {
+  font-size: 1.4rem !important;
   font-weight: 600;
   margin-bottom: 1.2rem;
 }
 
-/* Keep titles from scaling up too much on larger screens */
-@media (min-width: 768px) {
-  header.intro-header h1,
-  .intro-header h1,
-  .page-title {
-    font-size: 1.5rem;
-  }
-}
-
-@media (min-width: 1200px) {
-  header.intro-header h1,
-  .intro-header h1,
-  .page-title {
-    font-size: 1.4rem;
-  }
-}
-
-/* =====================================================
-   Section headings (optional but recommended)
-   ===================================================== */
-
-h2 {
-  font-size: 1.2rem;
-}
-
-h3 {
-  font-size: 1.05rem;
-}
-
-/* =====================================================
-   Navbar
-   ===================================================== */
-
+/* Navbar text */
 .navbar {
   font-family: "Georgia", "Times New Roman", serif;
   font-size: 14.5px;
 }
 
-/* =====================================================
-   Footer
-   ===================================================== */
-
+/* Footer text */
 footer {
   font-family: "Georgia", "Times New Roman", serif;
   font-size: 14px;
