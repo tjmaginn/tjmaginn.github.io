@@ -3,6 +3,17 @@ layout: page
 title: Academic & Policy Research
 ---
 
+### Integrating Affordable Housing in Market-Rate Developments
+*Urban Institute, 2025*
+*with Yonah Freemark and Thomas Brosy*
+
+Approaches to Reforming Inclusionary Zoning in Washington, D.C.
+
+<a href="https://www.urban.org/research/publication/integrating-affordable-housing-market-rate-developments" target="_blank" rel="noopener">
+Read the report →
+</a>
+
+---
 
 ### Generating Affordable and Abundant Transit-Oriented Development in Washington State  
 *Urban Institute, 2025*  
